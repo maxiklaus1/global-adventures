@@ -9,6 +9,7 @@ body {
   padding: 20px;
 }
 
+/* Checkpoint 1 */
 nav a {
   margin-right: 16px;
 }
@@ -46,14 +47,14 @@ nav a {
   text-decoration: none;
 }
 
-/* Three-column container */
+/* Three-column layout */
 .container {
   display: flex;
   gap: 20px;
   padding: 20px 0;
 }
 
-/* Sidebars */
+/* Left and right sidebars */
 .left-sidebar,
 .right-sidebar {
   width: 20%;
