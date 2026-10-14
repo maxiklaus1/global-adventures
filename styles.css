@@ -21,3 +21,24 @@ nav a {
 #featured img {
     border-radius: 6px;
 }
+.itinerary {
+    background-color: #f0f8ff;
+}
+
+.itinerary nav {
+    background-color: #2F6B73;
+    padding: 8px 12px;
+    border-radius: 4px;
+}
+
+.itinerary nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 16px;
+}
+
+.itinerary footer {
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+    color: #555;
+}
